@@ -1,6 +1,13 @@
 # codepath-prework
 IOS prework
 
+<div>
+    <a href="https://www.loom.com/share/70d8622d41694b56bccfcf55dec15f4b">
+    </a>
+    <a href="https://www.loom.com/share/70d8622d41694b56bccfcf55dec15f4b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/70d8622d41694b56bccfcf55dec15f4b-4b418388fd196a0e-full-play.gif">
+    </a>
+  </div>
 
 # Prework - *PREWORK*
 
